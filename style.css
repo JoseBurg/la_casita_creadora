@@ -1,3 +1,8 @@
-h1, h2 {
-  font-family: Lato;
+h1 {
+  text-decoration-color: rgb(123, 37, 202);
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 1px 1px 2px red, 0 0 1em purple, 0 0 0.2em blue;
 }
+
+
